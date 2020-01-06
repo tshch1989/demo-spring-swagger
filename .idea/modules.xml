@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-sg1/demo-sg1.iml" filepath="$PROJECT_DIR$/demo-sg1/demo-sg1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-sg2/demo-sg2.iml" filepath="$PROJECT_DIR$/demo-sg2/demo-sg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo-spring-swagger.iml" filepath="$PROJECT_DIR$/.idea/demo-spring-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-swagger/demo-swagger.iml" filepath="$PROJECT_DIR$/demo-swagger/demo-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-zuul/demo-zuul.iml" filepath="$PROJECT_DIR$/demo-zuul/demo-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+zuul:
+  routes:
+    echo:
+      path: /echo/**
+      url: http://localhost:8081
+      stripPrefix: true
+    testc:
+      path: /testc/**
+      url: http://localhost:8082
+      stripPrefix: true
+    swagger:
+      path: /swagger/**
+      url: http://localhost:8083
